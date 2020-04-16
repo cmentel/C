@@ -1,11 +1,3 @@
-// =================== Support Code =================
-// Binary Search Tree ( BST ).
-// - Implement each of the functions to create a working BST.
-// - Do not change any of the function declarations
-//   - (i.e. bst_t* create_bst() should not have additional arguments)
-// - You should not have any 'printf' statements in your BST functions.
-//   - (You may consider using these printf statements to debug, but they should be removed from your final version)
-// ==================================================
 #ifndef MYBST_H
 #define MYBST_H
 
