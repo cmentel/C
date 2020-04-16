@@ -1,15 +1,4 @@
-// Task: Implement the 'sortIntegers' function below
-
-// =================== Libraries ==================
-#include <stdio.h> // Include file for standart input/output
-
-// =============== Helper Functions ===============
-
-// Merges two sub-arrays of arr[].
-// First subarray is arr[l..m] 
-// Second subarray is arr[m+1..r]
-
-
+#include <stdio.h> 
 
 void merge(int arr[], int l, int m, int r) {
     // Create three counters
