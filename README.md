@@ -2,7 +2,8 @@
 * 1-10 Guess
    * Guessing game that prompts the user for a number from 1 to 10 alerting the user if they should guess higher or lower.
 * Binary Search Tree
-   * * Custom Shell
+   * C-header file that represents a BST data structure.
+* Custom Shell
    * Custom shell that can be compiled with gcc shell.c -o shell -std =c99. Type “help” to see all functionality.
 * Double Linked List
    * C-header that represents a Double-Linked-List data structure.
