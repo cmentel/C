@@ -1,12 +1,3 @@
-// =================== Support Code =================
-// Queue
-// - Implement each of the functions to create a working circular queue.
-// - Do not change any of the function declarations
-//   - (i.e. queue_t* create_queue(unsigned int _capacity) should not have additional arguments)
-// - You should not have any 'printf' statements in your queue functions.
-//   - (You may consider using these printf statements to debug,
-//      but they should be removed from your final version)
-// ==================================================
 #ifndef MYQUEUE_H
 #define MYQUEUE_H
 #include <stdlib.h>
