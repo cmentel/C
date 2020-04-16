@@ -1,6 +1,3 @@
-// =================== GRAPH =================
-// - Implement each of the functions to create a working graph_t.
-// ==================================================
 #ifndef MYGRAPH_H
 #define MYGRAPH_H
 
