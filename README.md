@@ -1,4 +1,4 @@
-#C projects I have worked on while at Northeastern University:
+# C projects I have worked on while at Northeastern University:
 * 1-10 Guess
    * Guessing game that prompts the user for a number from 1 to 10 alerting the user if they should guess higher or lower.
 * Binary Search Tree
