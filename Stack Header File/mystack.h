@@ -1,11 +1,3 @@
-// =================== Support Code =================
-// Stack
-// - Implement each of the functions to create a working stack.
-// - Do not change any of the function declarations
-// - (i.e. stack_t* create_stack() should not have additional arguments)
-// - You should not have any 'printf' statements in your stack functions.
-// - (You may consider using these printf statements to debug, but they should be removed from your final version)
-// ==================================================
 #ifndef MYSTACK_H
 #define MYSTACK_H
 
